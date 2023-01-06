@@ -17,7 +17,7 @@
           <i class="fa fa-google fa-fw"></i> Login with Google+
         </a>
       </div>
-
+      <br>
       <div class="col">
         <div class="hide-md-lg">
           <p>Or sign in manually:</p>
@@ -27,7 +27,7 @@
         <input type="password" name="password" placeholder="Password" required>
         <input type="submit" value="Login">
       </div>
-
+      <br>
     </div>
   </form>
 </div>
