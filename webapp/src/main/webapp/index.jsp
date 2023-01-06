@@ -5,7 +5,7 @@
       <div class="vl">
         <span class="vl-innertext">or</span>
       </div>
-
+      <br>
       <div class="col">
         <a href="#" class="fb btn">
           <i class="fa fa-facebook fa-fw"></i> Login with Facebook
